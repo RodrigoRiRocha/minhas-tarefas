@@ -10,6 +10,8 @@ Este projeto é uma aplicação web para gerenciamento de tarefas, construída e
 - **React Router DOM**: Gerenciamento de rotas.
 - **Redux Toolkit**: Gerenciamento de estado.
 
+Link para testar  --  https://minhas-tarefas-rrr.vercel.app/
+
 <img width="959" alt="projeto5" src="https://github.com/user-attachments/assets/2ac1def9-a8e9-4b0a-a20e-142d96828098" />
 
 <img width="959" alt="projeto5-1" src="https://github.com/user-attachments/assets/89cd8850-c95e-4463-8159-826fb22cf4eb" />
